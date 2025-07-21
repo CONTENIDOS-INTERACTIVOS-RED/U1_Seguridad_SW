@@ -48,7 +48,8 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Concepto de vulnerabilidad y su impacto en el software',
+            titulo:
+              'Concepto de vulnerabilidad y su impacto en el <em>software</em>',
             hash: 't_2_1',
           },
           {
@@ -62,7 +63,7 @@ export default {
             icono: 'far fa-file-alt',
             numero: '2.3',
             titulo:
-              'Fuentes de vulnerabilidades en el ciclo de vida del software',
+              'Fuentes de vulnerabilidades en el ciclo de vida del <em>software</em>',
             hash: 't_2_3',
           },
           {
@@ -74,7 +75,8 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.5',
-            titulo: 'Pruebas manuales de seguridad (pentesting básico)',
+            titulo:
+              'Pruebas manuales de seguridad (<em>pentesting</em> básico)',
             hash: 't_2_5',
           },
           {
@@ -136,7 +138,8 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '4.3',
-            titulo: 'Fundamentos de SAML (Security Assertion Markup Language)',
+            titulo:
+              'Fundamentos de SAML (<em>Security Assertion Markup Language</em>)',
             hash: 't_4_3',
           },
           {
@@ -211,7 +214,7 @@ export default {
     },
     {
       referencia:
-        'Omaña, M. (2012). Manufactura esbelta: una contribución para el desarrollo de software con calidad: ( ed.). Red Enlace.  ',
+        'Omaña, M. (2012). Manufactura esbelta: una contribución para el desarrollo de <em>software</em> con calidad: ( ed.). Red Enlace.  ',
       link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/98547',
     },
     {
@@ -234,7 +237,7 @@ export default {
       referencia:
         'Lozano, L., & Barrientos, J. (2023). [Imagen]. Ciclo de vida de Desarrollo Seguro de Software. En ResearchGate. ',
       link:
-        'https://www.researchgate.net/figure/Figura-3-Ciclo-de-vida-de-Desarrollo-Seguro-de-Software_fig3_366369323',
+        'https://www.researchgate.net/figure/Figura-3-Ciclo-de-vida-de-Desarrollo-Seguro-de-<em>software</em>_fig3_366369323',
     },
     {
       referencia:
@@ -269,7 +272,7 @@ export default {
         'principio de seguridad que establece que cada usuario o proceso debe tener solo los permisos estrictamente necesarios para realizar sus tareas.',
     },
     {
-      termino: 'Pentesting (Pruebas de penetración)',
+      termino: '<em>Pentesting</em> (Pruebas de penetración)',
       significado:
         'evaluación manual o automatizada que simula ataques para identificar vulnerabilidades en sistemas o aplicaciones.',
     },
@@ -286,7 +289,7 @@ export default {
     {
       termino: 'Rebase',
       significado:
-        'técnica en control de versiones que permite reorganizar y aplicar commits sobre otra base, como alternativa a la fusión para evitar conflictos.',
+        'técnica en control de versiones que permite reorganizar y aplicar <em>commits</em> sobre otra base, como alternativa a la fusión para evitar conflictos.',
     },
     {
       termino: 'Trazabilidad',
